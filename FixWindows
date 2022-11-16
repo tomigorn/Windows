@@ -1,0 +1,2 @@
+DISM /Online /Cleanup-image /Scanhealth
+DISM /Online /Cleanup-image /Restorehealth
